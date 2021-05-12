@@ -1,0 +1,250 @@
+[33mcommit c95605755fd619198b3e949d64b9df9931f4962c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: GOKUL <gokuljayakumartvm@gmail.com>
+Date:   Wed May 12 19:00:29 2021 +0530
+
+    first section
+
+[33mcommit cab88d67a6d535e8c99cf012c6ece983bb32c853[m[33m ([m[1;33mtag: v6.0.3[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Wed Apr 28 15:23:12 2021 -0400
+
+    update dependencies and add upath to scripts
+
+[33mcommit d58df1ef433af03b754c942b72ca364a4a8385bc[m[33m ([m[1;33mtag: v6.0.2[m[33m)[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Tue Nov 3 14:52:54 2020 -0500
+
+    Bootstrap 4.5.3 and dependencies update
+
+[33mcommit 3b337c3cf809469c84f3695c5fdc231d23b84f82[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Thu Jun 18 17:54:51 2020 -0400
+
+    update dependencies and push version
+
+[33mcommit b31eae423cd413ac000ba394b2b6d412094d56ec[m
+Merge: 512807f 60459ac
+Author: David Miller <hello@davidmiller.io>
+Date:   Wed May 20 17:07:39 2020 -0400
+
+    Merge pull request #184 from BlackrockDigital/develop
+    
+    6.0 refactor with npm scripts and Bootstrap 4.5
+
+[33mcommit 60459ac3ae71d43222d881a8df95b4ce6e9fb92f[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Wed May 20 16:27:45 2020 -0400
+
+    Update README.md
+
+[33mcommit 3213a5e69b4a11a4f28815b592165ea91382e127[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Wed May 20 15:26:24 2020 -0400
+
+    v6 refactor with updated depednencies, Bootstrap 4.5, and more intuitive markup along with node scripts replacing gulp
+
+[33mcommit 750f4da5e341c17c5e365ca1504d948832a8793e[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Wed Apr 15 19:00:08 2020 -0400
+
+    initial setup for 6.0 refactor
+
+[33mcommit 512807f355aaa86c9696c4cb59e4a21977954299[m[33m ([m[1;33mtag: v5.0.8[m[33m)[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Mon Sep 16 17:49:07 2019 -0400
+
+    update dependencies and autoprefixer config
+
+[33mcommit 47e7400ad8f75a48c9187bd70da534e0ec853aef[m[33m ([m[1;33mtag: v5.0.7[m[33m)[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Thu Jun 13 13:12:39 2019 -0400
+
+    update dependencies, run npm start script from local gulp install, remove unused font awesome assets
+
+[33mcommit b48f2b19c7237ae6d8fae550d1fff6e7893ce716[m[33m ([m[1;33mtag: v5.0.6[m[33m)[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Wed May 29 14:46:56 2019 -0400
+
+    gulpfile js task fix and update dependencies
+
+[33mcommit 20126dbe4928b3ca9057faaa81731b71acb62396[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Thu May 16 18:12:55 2019 -0400
+
+    fix gulp-sass vulnerabilities and update dependencies
+
+[33mcommit e03019496f2e29c5e447ed026c779f3551cda660[m[33m ([m[1;33mtag: v5.0.5[m[33m)[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Tue Mar 26 02:08:05 2019 -0400
+
+    update dependencies
+
+[33mcommit efd6bbdffb27e408d4d8f1cd0f739c33d651c0e5[m[33m ([m[1;33mtag: v5.0.4[m[33m)[m
+Merge: a1e7bce 25ee023
+Author: David Miller <hello@davidmiller.io>
+Date:   Sun Feb 17 03:26:48 2019 -0500
+
+    Merge pull request #41 from BlackrockDigital/dev
+    
+    Bootstrap 4.3.1, npm start script, gulpfile update
+
+[33mcommit 25ee0239c5c39a0d4cf09b6b1dae36dcb6697eef[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Sun Feb 17 02:53:08 2019 -0500
+
+    Bootstrap 4.3.1, npm start script, gulpfile update
+
+[33mcommit a1e7bce7e5fe23f374b87302530db43fcf7cc162[m[33m ([m[1;33mtag: v5.0.3[m[33m)[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Thu Jan 31 23:47:43 2019 -0500
+
+    update dependencies, gulp 4 update, and update copyright
+
+[33mcommit 7528e645a9253f69e13b6533a3f9ddbf1cc5498e[m[33m ([m[1;33mtag: v5.0.2[m[33m)[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Mon Sep 10 22:02:06 2018 -0400
+
+    update dependencies and dev dependencies
+
+[33mcommit 86f5f9ff5538bb3f3467d124cee83494ab9eba0a[m[33m ([m[1;33mtag: v5.0.1[m[33m)[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Fri Aug 10 14:11:16 2018 -0400
+
+    5.0.1 update to remove devicons dependency
+
+[33mcommit 12d7edc668c4009cd01693ceb51756d5ebe39511[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Fri Aug 10 14:10:28 2018 -0400
+
+    remove devicons depednecy
+
+[33mcommit e5b31c626037257e5751688d679ef53159e8e5e5[m[33m ([m[1;33mtag: v5.0.0[m[33m)[m
+Merge: dbeec7b cba1d72
+Author: David Miller <hello@davidmiller.io>
+Date:   Fri Aug 10 14:02:33 2018 -0400
+
+    Merge branch 'master' of https://github.com/BlackrockDigital/startbootstrap-resume
+
+[33mcommit dbeec7bd2e227489ceb79e52208d327b5078e731[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Fri Aug 10 14:02:31 2018 -0400
+
+    typo fix
+
+[33mcommit cba1d7211e04b61e06e86bc1e9ce581322f8e6b6[m
+Merge: 53c06da 3724d37
+Author: David Miller <hello@davidmiller.io>
+Date:   Fri Aug 10 14:00:03 2018 -0400
+
+    Merge pull request #9 from jimcullenaus/master
+    
+    remove unused and unpaired li
+
+[33mcommit 53c06dac426156d91817728dbf6c7eae166ba845[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Fri Aug 10 13:59:36 2018 -0400
+
+    lodash version update to fix security vulnerability
+
+[33mcommit 41237644a8ac938ef3bff798e2d6751a134a06bd[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Fri Aug 10 13:53:49 2018 -0400
+
+    Version 5.0.0 Update
+    
+    Font changes, upgrade to Bootstrap 4.1.3, upgrade to Font Awesome 5.2.0, remove Simple Line Icons and Devicons, max width set to resume sections, other markup changes
+
+[33mcommit cc2748c7b250abb666274a8a91b0b86634477b2e[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Mon Jul 9 23:52:26 2018 -0400
+
+    update README
+
+[33mcommit 3c7f120da8fd527d2616155854df8cc149ce536d[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Mon Jul 9 16:04:43 2018 -0400
+
+    update dependencies
+
+[33mcommit 4241172e8e583b7ae5cf8a7ba8a1d992d71df2d4[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Thu May 3 15:17:05 2018 -0400
+
+    update dependencies
+
+[33mcommit 1c482ed99716c48c19642b2c68b51cacf9934217[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Thu May 3 01:40:03 2018 -0400
+
+    Bootstrap 4.1.1
+
+[33mcommit 02c4fa8bee2524f6ac416e6a42855abccc29a856[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Mon Jan 29 20:03:58 2018 -0500
+
+    update copyright year on license and readme
+
+[33mcommit 87ebb824010cbeb9f5eb47acebac8913372669e7[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Mon Jan 29 19:47:57 2018 -0500
+
+    run fresh npm install to fix brace-expansion vulnerability
+
+[33mcommit 76fbef95d978b5707e52596fb29439d56a2b70d1[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Mon Jan 29 16:31:08 2018 -0500
+
+    update dependencies
+
+[33mcommit 3724d37ae70f394b662aacf15fef412d30b4d4db[m
+Author: James Cullen <jimcullenaus@gmail.com>
+Date:   Sun Jan 28 22:48:22 2018 +1000
+
+    remove unused and unpaired li
+
+[33mcommit 7e2698bb0bf9bd9884b2286f5b633f8046e33fde[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Fri Jan 19 20:33:02 2018 -0500
+
+    Bootstrap 4 Update
+
+[33mcommit 1fcb3f79838c064501873433084f89cb2dd26097[m
+Merge: 8c98943 11258c1
+Author: David Miller <hello@davidmiller.io>
+Date:   Tue Oct 31 14:27:17 2017 -0400
+
+    Merge pull request #3 from heymrhayes/master
+    
+    typo fix
+
+[33mcommit 11258c1e4467589b5feeed2fad913fe9ac6058a8[m
+Author: heymrhayes <heymrhayes@users.noreply.github.com>
+Date:   Mon Oct 30 14:52:31 2017 -0500
+
+    typo fix
+    
+    s/b Technology **Magnet** Program (not Magnent)
+
+[33mcommit 8c98943991cafa6d437899d3318c39a76b84df5e[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Fri Oct 27 01:12:05 2017 -0400
+
+    README update
+
+[33mcommit 2ac446e18a8f7ac5ce421f91f74a8e0b78cacb08[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Fri Oct 27 01:04:33 2017 -0400
+
+    README typo
+
+[33mcommit b6ffc795ec4ff6d5295bae125cf226affe2b05e0[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Fri Oct 27 00:59:08 2017 -0400
+
+    initial commit
+
+[33mcommit 720a28d38a24d288a634dbedec678d161a2c67ec[m
+Author: David Miller <hello@davidmiller.io>
+Date:   Fri Oct 27 00:50:50 2017 -0400
+
+    Initial comm
